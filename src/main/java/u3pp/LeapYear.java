@@ -1,16 +1,20 @@
 package u3pp;
 
 /**
- * YOUR COMMENTs HERE
+ * checks if year is a leap year
  * 
- * @author //YOUR NAME HERE
+ * @author //Jeremy John
  *
  */
 
 public class LeapYear {
 	
 	/**
-	 * YOUR COMMENTS HERE
+	 * Leap year determining:
+	 * years before 1582 is not leap year
+	 * years divisible by 4 are leap years
+	 * years divisible by 100 and by 400 are leap years. If they are not divisible by 400 they are not leap years
+	 * 
 	 * 
 	 */
 	

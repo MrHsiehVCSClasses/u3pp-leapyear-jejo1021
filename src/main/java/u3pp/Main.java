@@ -3,9 +3,9 @@ package u3pp;
 import java.util.Scanner;
 
 /**S
- * YOUR COMMENTS HERE
+ * Takes user input and checks if the year is a leap year or not.
  * 
- * @author YOUR NAME HERE
+ * @author Jeremy John 
  */
 
 class Main {
